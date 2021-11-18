@@ -1,6 +1,6 @@
 ## Fancy seeing you here! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-younes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amineamali/)](https://www.linkedin.com/in/amineamali//)
+[![Linkedin Badge](https://img.shields.io/badge/-amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amineamali/)](https://www.linkedin.com/in/amineamali//)
 
 ## ⚡ Technologies
 
