@@ -43,6 +43,6 @@ My set of tools and technologies grows larger everyday, and currently it include
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=younes200&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younes200&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amali-amine&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amali-amine&hide=TeX&layout=compact)
 
