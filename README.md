@@ -1,7 +1,7 @@
 ## Fancy seeing you here! 👋
 
 
-Data Scientist with a demonstrated history of working in the IT and services industry. 
+I'm Amine, data Scientist with extensive experience in the IT and services industry. 
 
 Find out more about me & feel free to connect with me here:
 
