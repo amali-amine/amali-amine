@@ -23,7 +23,7 @@ My set of tools and technologies grows larger everyday, and currently it include
 ✅ Process mining : Minit, Celonis.
 
 
-![Linkedin Badge](https://img.shields.io/badge/-amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amineamali/)]
+![Linkedin Badge](https://img.shields.io/badge/-amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amineamali/)
 
 
 
@@ -38,10 +38,8 @@ My set of tools and technologies grows larger everyday, and currently it include
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-336791?style=flat-square&logo=Power-BI)
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F3E?style=flat-square&logo=Microsoft-Azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
