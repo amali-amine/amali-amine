@@ -1,6 +1,7 @@
 ## Fancy seeing you here! 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Amine%20AMALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amineamali/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amine%20AMALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amineamali/)]
+(https://www.linkedin.com/in/amineamali/)
 
 Data Scientist with a demonstrated history of working in the IT and services industry. Skilled in Engineering, Communication, Strategy, Research, and Management. Strong engineering professional with a Master's degree focused in Data science from IMT Atlantique (ex Telecom Bretagne).
  
