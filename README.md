@@ -43,6 +43,6 @@ Find out more about me & feel free to connect with me here:
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=amali-amine&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amali-amine&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amine-amali&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine-amali&hide=TeX&layout=compact)
 
